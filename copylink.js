@@ -1,4 +1,4 @@
     function getURL() {
-        alert("The URL of this page is: " + window.location.href);
+        alert("Url: " + window.location.href + " has been copied");
         var link = window.location.href;
     }
