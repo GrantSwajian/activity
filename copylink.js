@@ -3,5 +3,5 @@
         document.getElementById("pageLink").innerHTML = link;
     }
     function copyURL() {
-      alert("The link " + link + " has been copied");
+        alert("The link " + link + " has been copied");
     }
